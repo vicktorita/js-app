@@ -1,2 +1,8 @@
 # js-app
-## Project set up
+## Project Set Up
+| Feature | Description | Status |
+|---|---|---|
+| Basic Functionality | Core features working | Completed |
+| Advanced Options | Customizable settings | In Progress |
+| User Interface | Responsive design | Pending |
+[Learn more on TechGlobal Website](https://www.techglobal-training.com/)
